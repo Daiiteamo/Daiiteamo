@@ -11,3 +11,4 @@ Nanu Cabrera/Nanu (C#) is a ✨ special ✨ repository because its `README.md` (
 You can click the Preview link to take a look at your changes.
 ---> C#=X+T-Y.  Formación de coordenadas geográficas activo en un dispositivo en línea
 (contrato inteligente (c#=Nanu@bard)
+https://www.linkedin.com/in/nanu-cabrera-35a79829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
